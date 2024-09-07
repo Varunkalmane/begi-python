@@ -1,0 +1,6 @@
+print("Welcome to WORD REPLACER")
+sent=input("Enter your SENTENCE :")
+one=input("Enter word :")
+two=input("Enter replacment word :")
+print(sent.replace(one,two))
+input()
